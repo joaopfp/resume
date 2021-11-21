@@ -4,7 +4,7 @@ Highly-motivated student searching for learning opportunities. Based in Porto Al
 
 -------------------     ----------------------------
 Porto Alegre, Brazil.                     
-[Email](joaopedro_ferreirapereira@hotmail.com) / [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-ferreira-2661561b8/)
+joaopedro_ferreirapereira@hotmail.com / [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-ferreira-2661561b8/)
 -------------------     ----------------------------
 
 Education
