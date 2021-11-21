@@ -2,9 +2,9 @@ João Pedro Ferreira Pereira
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
+   1 MyAddress                        email@example.com
 MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+Brazil                           1800 my-phone-nr
 -------------------     ----------------------------
 
 Education
