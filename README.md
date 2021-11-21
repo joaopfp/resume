@@ -28,7 +28,7 @@ My project includes studying efficient algorithms for spherical signal decoding.
 
 
 
-Technologies:
+Technologies
 --------------------
 
 **Proficient:** Python.
