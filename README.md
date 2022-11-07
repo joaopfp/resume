@@ -23,15 +23,19 @@ Experience
 
 **Undergratuate Student Researcher:**
 
-I am currently holding a position of Undergraduate Student Researcher in UFRGS. 
-My project includes studying efficient algorithms for spherical signal decoding. 
+held a position of Undergraduate Student Researcher in UFRGS. My project includes studying efficient algorithms for spherical signal decoding.
 
+**Software Engineer Intern [(Poatek)](https://poatek.com/):**
 
+- Fullstack software development and maintenance.
+- End to end software testing. 
+- Continuous deployment using Azure DevOps
+- Colaboration in projects of international scope using Agile methodology
 
 Technologies
 --------------------
 
-**Proficient:** Python.
+**Proficient:** Python, Typescript, React.js, .NET Framework, C#, SQL
 
 **Knowledgeable:** C, C++.
 
